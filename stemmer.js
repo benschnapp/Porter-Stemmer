@@ -18,7 +18,6 @@ var stemmer = (function(){
 			"izer" : "ize",
 			"bli" : "ble",
 			"alli" : "al",
-			"entli" : "ent",
 			"eli" : "e",
 			"ousli" : "ous",
 			"ization" : "ize",
